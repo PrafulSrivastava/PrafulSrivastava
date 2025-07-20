@@ -21,7 +21,7 @@
 
 📍 Based in **Stuttgart, Germany**  
 🏢 Working on cool stuff for cars. 
-📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+📫 Reach me at: [your.email@example.com](prafulsrivastava2021@gmail.com)
 
 ---
 
