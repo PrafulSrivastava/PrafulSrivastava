@@ -39,14 +39,14 @@
 
 ## 📌 Pinned Projects
 
-| Project                         | Description                                       | Language  | ⭐️ Stars |
-| ------------------------------- | ------------------------------------------------- | --------- | -------: |
-| [Evolution](https://github.com/PrafulSrivastava/Evolution)               | Simulates evolutionary behaviour based on food source.        | C++       |        1 |
-| [Smart-Poniters-Impl-Cpp](https://github.com/PrafulSrivastava/Smart-Poniters-Impl-Cpp) | Custom smart pointer implementations & demos. | C++       |        2 |
-| [Graph-Traveral-C-](https://github.com/PrafulSrivastava/Graph-Traveral-C-) | Complete graph class with DFS, BFS, Dijkstra, and more.      | C++       |        1 |
-| [ConwaysWayOfLife](https://github.com/PrafulSrivastava/ConwaysWayOfLife)   | Classic “Game of Life” in modern C++ style.   | C++       |        1 |
-| [CppDBInteractions](https://github.com/PrafulSrivastava/CppDBInteractions)  | Backend communication layer for MySQL.        | C++       |        1 |
-| [EDispatcherQueue](https://github.com/PrafulSrivastava/EDispatcherQueue)    | Event-driven dispatcher queue implementation. | C++       |        1 |
+| Project                         | Description                                       | Language  |
+| ------------------------------- | ------------------------------------------------- | --------- |
+| [Evolution](https://github.com/PrafulSrivastava/Evolution)               | Simulates evolutionary behaviour based on food source.        | C++       |
+| [QuirkyAIBots](https://github.com/PrafulSrivastava/QuirkyAIBots) | Set of AI bots with varying personalities | Python, JS       |        1 |
+| [Graph-Traveral-C-](https://github.com/PrafulSrivastava/Graph-Traveral-C-) | Complete graph class with DFS, BFS, Dijkstra, and more.      | C++       |
+| [ConwaysWayOfLife](https://github.com/PrafulSrivastava/ConwaysWayOfLife)   | Classic “Game of Life” in modern C++ style.   | C++       |
+| [CppDBInteractions](https://github.com/PrafulSrivastava/CppDBInteractions)  | Backend communication layer for MySQL.        | C++       |
+| [EDispatcherQueue](https://github.com/PrafulSrivastava/EDispatcherQueue)    | Event-driven dispatcher queue implementation. | C++       |
 
 Check out my full repo list [here](https://github.com/PrafulSrivastava?tab=repositories)!
 
