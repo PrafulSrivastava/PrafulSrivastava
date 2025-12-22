@@ -41,6 +41,7 @@
 
 | Project                         | Description                                       | Language  |
 | ------------------------------- | ------------------------------------------------- | --------- |
+| [APIKeyRouter](https://github.com/PrafulSrivastava/ApiKeyRouter)               | An intelligent LLM request router + quota optimizer across providers        | Python     |
 | [Evolution](https://github.com/PrafulSrivastava/Evolution)               | Simulates evolutionary behaviour based on food source.        | C++       |
 | [QuirkyAIBots](https://github.com/PrafulSrivastava/QuirkyAIBots) | Set of AI bots with varying personalities | Python, JS       |        1 |
 | [Graph-Traveral-C-](https://github.com/PrafulSrivastava/Graph-Traveral-C-) | Complete graph class with DFS, BFS, Dijkstra, and more.      | C++       |
