@@ -1,78 +1,61 @@
-<!--
-  ******************************************************
-  *   Welcome to my Quacktastic Corner of GitHub! 🦆  *
-  ******************************************************
--->
+# 👋 Hey, I'm Praful
 
-# Hi there, I’m Praful Srivastava 👋
+A systems engineer who builds things at the intersection of **low-level software**, **applied AI**, and **real-world products**. Based in Stuttgart, working at Mercedes-Benz.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" alt="Quack!" width="200"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PrafulSrivastava-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praful-srivastava-b24586171/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-PrafulSrivastava-181717?logo=github&logoColor=white)](https://github.com/PrafulSrivastava)
+
+I started deep in C++ with performance systems, design patterns, and simulations. Over time I moved into LLM tooling, agentic workflows, and product-driven engineering. The thread connecting all of it: I like understanding how things actually work before deciding how to build them.
 
 ---
 
-## 🦆 About Me
+## 🧠 What I work on now
 
-- **C++ Enthusiast** – I speak fluent pointers, templates, and—of course—duck typing.
-- **Machine Learning Explorer** – Currently waddling through neural nets and data lakes.
-- **Writer at Heart** – Crafting code and prose with equal passion.
-- **Gamer & Meme Connoisseur** – When I’m not coding, I’m conquering virtual worlds (or attempting to).
+**Agentic AI & LLM Systems:** routing, orchestration, multi-agent pipelines, and tools that use LLMs to solve real friction points (not demos).
 
-📍 Based in **Stuttgart, Germany**  
-🏢 Working on cool stuff for cars. 
-📫 Reach me at: [prafulsrivastava2021@gmail.com](prafulsrivastava2021@gmail.com)
+**Applied Product Engineering:** turning vague problems into working systems. MVPs first, then hardening what matters.
+
+**Systems & Performance:** still very much in the DNA. Event-driven architectures, resource-constrained environments, and the kind of design thinking that only comes from years in C++.
 
 ---
 
-## 🛠️ Tech & Tools
+## 🚀 Projects worth looking at
 
-<p>
-  <img src="https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/ML-Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</p>
+| Project | What it does |
+|---|---|
+| **[PolicyQ](https://github.com/PrafulSrivastava/PolicyQ)** | Knowledge interface for navigating complex policy documents with precision. No summaries, no opinions, just answers. |
+| **[ApiKeyRouter](https://github.com/PrafulSrivastava/ApiKeyRouter)** | Routes LLM requests across providers, optimizing for cost, reliability, and throughput simultaneously. |
+| **[Agentic-Dev-Team](https://github.com/PrafulSrivastava/Agentic-Dev-Team)** | A virtual engineering team (Lead → Dev → Tester) built on LLM agents that takes a prompt and ships a working Python app. |
+| **[TradeLens-AI](https://github.com/PrafulSrivastava/TradeLens-AI)** | Agentic financial analysis. Turns a natural language query into a 0–100 investment likelihood score. |
+| **[CodeReviewAssistant](https://github.com/PrafulSrivastava/CodeReviewAssistant)** | LLM-powered code review focused on *why* a change matters: context, trade-offs, and architectural feedback. |
+| **[CruiseCast](https://github.com/PrafulSrivastava/CruiseCast)** | Web-based adaptive cruise control simulation combining clustering algorithms with map visualization. |
+| **[LLM_Theatre](https://github.com/PrafulSrivastava/LLM_Theatre)** | Multi-agent storytelling experiment. Dynamic narrative generation through orchestrated LLM interactions. |
+| **[QuirkyChangeLogger](https://github.com/PrafulSrivastava/QuirkyChangeLogger)** | Turns boring changelogs into wildly over-dramatized narratives. Because why not. |
 
----
-
-## 📌 Pinned Projects
-
-| Project                         | Description                                       | Language  |
-| ------------------------------- | ------------------------------------------------- | --------- |
-| [APIKeyRouter](https://github.com/PrafulSrivastava/ApiKeyRouter)               | An intelligent LLM request router + quota optimizer across providers        | Python     |
-| [Evolution](https://github.com/PrafulSrivastava/Evolution)               | Simulates evolutionary behaviour based on food source.        | C++       |
-| [QuirkyAIBots](https://github.com/PrafulSrivastava/QuirkyAIBots) | Set of AI bots with varying personalities | Python, JS       |        1 |
-| [Graph-Traveral-C-](https://github.com/PrafulSrivastava/Graph-Traveral-C-) | Complete graph class with DFS, BFS, Dijkstra, and more.      | C++       |
-| [ConwaysWayOfLife](https://github.com/PrafulSrivastava/ConwaysWayOfLife)   | Classic “Game of Life” in modern C++ style.   | C++       |
-| [CppDBInteractions](https://github.com/PrafulSrivastava/CppDBInteractions)  | Backend communication layer for MySQL.        | C++       |
-| [EDispatcherQueue](https://github.com/PrafulSrivastava/EDispatcherQueue)    | Event-driven dispatcher queue implementation. | C++       |
-
-Check out my full repo list [here](https://github.com/PrafulSrivastava?tab=repositories)!
+*Older repos cover game engines, C++ simulations, evolutionary algorithms, and design pattern explorations. The foundations everything else is built on.*
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Tech stack
 
-- 🚀 **Boosting My ML Toolkit**: Diving deeper into PyTorch, TensorFlow, and custom C++ extensions.  
-- 📚 **Writing Technical Blogs**: Translating complex concepts into bite-sized blog posts.  
-- 🤝 **Open Source Collaboration**: Always on the lookout for fun projects to contribute to!
+**Languages:** C++, Python, TypeScript / JavaScript · Some Java, Bash, SQL
 
----
+**AI & ML:** LLM APIs, embeddings, RAG pipelines, agent orchestration, tool-calling
 
-## 🤙 Let’s Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/praful-srivastava-b24586171" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-PrafulSrivastava-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+**Engineering:** Git, CI/CD, containerized workflows, system design, event-driven architecture
 
 ---
 
-> “Be the duck: stay calm on the surface, paddle like mad underneath.” 🦆
+## 📐 How I think about engineering
+
+- Performance matters, but only where it actually matters.
+- Most "technical" problems are product problems in disguise.
+- AI systems should be auditable, debuggable, and boring in production.
+- Abstractions are useful until they leak. Then you need to understand what's underneath.
 
 ---
 
-<!--
-  Thanks for dropping by—now go quack some awesome code! 🦆💻
--->
+## 🦆 A bit more about me
+
+Dedicated duck. C++ enthusiast turned AI systems builder. Loves writing and gaming, which is probably why half my projects have personality built in.
+
+Currently exploring AI-native product ideas, particularly tools that help people navigate complex information without getting lost in it.
