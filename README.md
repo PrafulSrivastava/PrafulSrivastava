@@ -24,7 +24,7 @@ Started deep in C++ with performance systems, event-driven architectures, and si
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**Shieldly**](https://github.com/PrafulSrivastava/Shieldly) | Real-time women's safety broadcast network. SOS triggers notify verified nearby volunteers; both parties navigate to a convergence point via live GPS. [Live](https://shieldly-psi.vercel.app) | Python |
+| [**Shieldly**](https://github.com/PrafulSrivastava/Shieldly) | Real-time women's safety broadcast network. SOS triggers notify verified nearby volunteers; both parties navigate to a convergence point via live GPS. | Python |
 | [**PolicyQ**](https://github.com/PrafulSrivastava/PolicyQ) | Knowledge interface for navigating complex policy documents. No summaries, no opinions. Ask directly, verify instantly. [Live](https://policyq.vercel.app) | TypeScript |
 | [**CruiseCast**](https://github.com/PrafulSrivastava/CruiseCast) | Advanced adaptive cruise control mechanics with clustering algorithms and map visualization. | TypeScript |
 | [**CodeReviewAssistant**](https://github.com/PrafulSrivastava/CodeReviewAssistant) | LLM-powered code review focused on context, trade-offs, and architectural feedback. Not just linting. | JavaScript |
