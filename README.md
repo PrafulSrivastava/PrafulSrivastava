@@ -72,6 +72,4 @@ Started deep in C++ with performance systems, event-driven architectures, and si
 
 ## Currently
 
-Exploring AI-native product ideas, particularly tools that help people navigate complex information without getting lost in it. Building [CapSi](https://github.com/PrafulSrivastava/Capsi_brainstorming), a white-label AI builder for DACH vertical SaaS.
-
 Dedicated duck. C++ enthusiast turned AI systems builder. Loves writing and gaming, which is probably why half these projects have personality built in.
